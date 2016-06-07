@@ -1,0 +1,3 @@
+GetCrimeIntent get worst for {crime}
+GetCrimeIntent get worst offender for {crime}
+GetCrimeIntent look up {crime}

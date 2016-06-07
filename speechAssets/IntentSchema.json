@@ -1,0 +1,22 @@
+
+{
+  "intents":[
+    {
+      "intent": "GetCrimeIntent",
+      "slots": [
+        {
+          "name": "crime",
+          "type": "CRIME"
+        }
+      ]
+    
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+
+
+}
+
